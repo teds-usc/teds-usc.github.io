@@ -4,20 +4,39 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+  <h1 class="page-heading">Faculty Members</h1>
+  <div class="member-list">
+    {% for faculty in site.data.faculties %}
+    <div class="faculty-namecard">
+      <a href="{{ faculty.url }}"> <img src="{{ faculty.img | prepend: site.baseurl }}" class="profile-img"> </a>
+      <a href="{{ faculty.url }}"> <div class="faculty-name">{{faculty.name}}</div> </a>
+      <div class="faculty-title">{{faculty.title}}</div>
+    </div>
     {% endfor %}
-  </ul>
+  </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- Lab Member -->
 
+  <h1 class="page-heading">Members</h1>
+  <div class="member-list">
+    {% for member in site.data.members %}
+    <div class="member-namecard">
+      <a href="{{ member.url | escape }}"> <img src="{{ member.img | prepend: site.baseurl }}" class="profile-img"> </a>
+      <a href="{{ member.url | escape }}"> <div class="member-name">{{member.name}}</div> </a>
+      <div class="member-title">{{member.title}}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Alumni -->
+  <h2 class="page-heading">Alumni</h2>
+  <div class="member-list">
+    {% for member in site.data.alumni %}
+    <div class="alumni-namecard">
+      <a href="{{ member.url | escape }}"> <div class="alumni-name"> {{member.name}} </div> </a>
+      <div class="alumni-desc"> {{member.description}} </div>
+      <div class="alumni-position"> {{member.position}} </div>
+    </div>
+    {% endfor %}
+  </div>
 </div>

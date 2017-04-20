@@ -20,6 +20,22 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$red-color:        #990000;
+$red-color-light:  lighten($red-color, 40%);
+$red-color-dark:   darken($red-color, 10%);
+
+$yellow-color:        #FFCC00;
+$yellow-color-light:  lighten($yellow-color, 40%);
+$yellow-color-dark:   darken($yellow-color, 5%);
+
+$blue-color:        #0077B5;
+$blue-color-light:  lighten($blue-color, 40%);
+$blue-color-dark:   darken($blue-color,  10%);
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      $blue-color;
+
 // Width of the content area
 $content-width:    800px;
 
@@ -34,6 +50,15 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
 
-// Import partials from the `minima` theme.
-@import "minima";
+@import
+  "base",
+  "layout",
+  "syntax-highlighting",
+  "profile"
+;

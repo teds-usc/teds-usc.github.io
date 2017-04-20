@@ -1,0 +1,7 @@
+- name:   'Boqing Gong'
+  url:    'http://www-scf.usc.edu/~boqinggo/'
+  position:  'Assitant Professor at U. of Central Florida'
+  description: 'PhD, 2011 - 2015'
+  tags:
+    - name: 'Unsupervised Domain Adaptation'
+    - name: 'Kernal Method'
