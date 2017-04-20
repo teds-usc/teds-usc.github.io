@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">Faculty Members</h1>
   <div class="member-list">
     {% for faculty in site.data.faculties %}
-    <div class="faculty-namecard">
+    <div class="member-namecard">
       <a href="{{ faculty.url }}"> <img src="{{ faculty.img | prepend: site.baseurl }}" class="profile-img"> </a>
       <a href="{{ faculty.url }}"> <div class="faculty-name">{{faculty.name}}</div> </a>
       <div class="faculty-title">{{faculty.title}}</div>
@@ -30,7 +30,7 @@ layout: default
 
   <!-- Alumni -->
   <h2 class="page-heading">Alumni</h2>
-  <div class="member-list">
+  <div class="alumni-list">
     {% for member in site.data.alumni %}
     <div class="alumni-namecard">
       <a href="{{ member.url | escape }}"> <div class="alumni-name"> {{member.name}} </div> </a>

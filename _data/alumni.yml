@@ -5,3 +5,10 @@
   tags:
     - name: 'Unsupervised Domain Adaptation'
     - name: 'Kernal Method'
+- name:   'Aurélien Bellet'
+  url:    'http://researchers.lille.inria.fr/abellet/'
+  position:  'Machine Learning Researcher at Inria'
+  description: 'Postdoc, 2013 - 2014'
+  tags:
+    - name: 'Metric Learning'
+    - name: 'Speech Recognition'

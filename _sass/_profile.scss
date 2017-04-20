@@ -1,9 +1,62 @@
 .profile-img {
   margin:         0px auto;
-  width:          168px;
-  height:         168px;
+  width:          128px;
+  height:         128px;
   border-width:   4px;
   border-style:   solid;
   border-radius:  50%;
-  border-color:   $red-color-dark;
+  border-color:   $grey-color-dark;
+  @include media-query($on-palm) {
+    display: none;
+  }
+}
+
+.member-list {
+  width: -webkit-calc(95% - (#{$spacing-unit} / 2));
+  width:         calc(95% - (#{$spacing-unit} / 2));  
+  display:       inline-block;
+}
+
+.member-namecard {
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
+  float:         left;
+  margin-top:    #{$spacing-unit};
+  display:       inline-block;
+  text-align:    center;
+  @include media-query($on-palm) {
+    margin-top:    (#{$spacing-unit} / 2);
+    text-align:    left;
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+}
+
+.alumni-namecard {
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
+  border-left:  thick solid $green-color;
+  display:       inline-block;
+}
+
+.alumni-name,
+.alumni-desc {
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  width:         calc(20% - (#{$spacing-unit} / 2));
+  float: left;
+  padding-left: #{$spacing-unit};
+}
+
+.alumni-position {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+  float: left;
+  padding-left: #{$spacing-unit};
+}
+
+
+.alumni-list {
+  width: -webkit-calc(95% - (#{$spacing-unit} / 2));
+  width:         calc(95% - (#{$spacing-unit} / 2));  
+  display:       inline-block;
 }

@@ -1,7 +1,7 @@
 - name:   'Chao-Kai Jiang'
   img:    '/img/members/chaokai.jpg'
   url:    'https://sites.google.com/site/chiangchaokai/'
-  title:  'Postdoc.'
+  title:  'Postdoc'
   tags:
     - name: 'Online Learning'
     - name: 'Reinforcement Learning'
