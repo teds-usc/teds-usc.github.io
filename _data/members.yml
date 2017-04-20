@@ -28,7 +28,7 @@
     - name: 'Computer Vision'
 - name: 'Ke Zhang'
   img:  '/img/members/zhan355.jpg'
-  url:  'www-scf.usc.edu/~zhan355/'
+  url:  'http:/www-scf.usc.edu/~zhan355/'
   title:  'Ph.D Student'
   tags:
     - name: 'Sequence Modeling'
