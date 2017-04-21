@@ -25,6 +25,7 @@ google_analytics: "UA-60071442-3"
 # Build settings
 markdown: kramdown
 
+logo: "/img/logo/teds-logo.svg"
 scss:
   sass_dir: _scss
   style: :compressed
