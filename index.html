@@ -24,6 +24,11 @@ layout: default
       <a href="{{ member.url | escape }}"> <img src="{{ member.img | prepend: site.baseurl }}" class="profile-img"> </a>
       <a href="{{ member.url | escape }}"> <div class="member-name">{{member.name}}</div> </a>
       <div class="member-title">{{member.title}}</div>
+      <div class="member-tags">
+      {% for tag in member.tags %}
+        <div class="member-tag">{{tag.name}}</div>
+      {% endfor %}
+      </div>
     </div>
     {% endfor %}
   </div>

@@ -32,6 +32,26 @@
   }
 }
 
+.member-tags {
+  margin:             $spacing-unit / 2;
+  @include media-query($content-width) {
+    display: none;
+  }
+}
+
+.member-tag {
+  border-style:       solid;
+  border-width:       2px;
+  border-color:       $yellow-color;
+  margin:             2px;
+  font-size:          8pt;
+  width:              175px;
+}
+
+.member-name {
+  overflow: hidden;
+}
+
 .alumni-namecard {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
