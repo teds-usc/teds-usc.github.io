@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Theortical and Empirical Data Science Lab (TEDS)"
+title: "Theortical and Empirical Data Science Lab (TEDS Lab)"
 author: "Web-Master@TEDS"
 description: >
   @Viterbi School of Engineering, USC, Los Angeles, CA 90089
