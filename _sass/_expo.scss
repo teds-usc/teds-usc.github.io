@@ -1,0 +1,20 @@
+.img-effect {
+    box-shadow: 0px 30px 40px rgba(0,0,0,.1);
+    border-radius: 10px;
+}
+
+.text-effect {
+    text-color:     $grey-color-light;
+    text-shadow:    0 1px 2px rgba(0,0,0,0.6);
+}
+
+.slide {
+    height:     512px;
+    width:      100%;
+    display:    inline-block;
+}
+
+.carousel-control {
+    color:          $blue-color-dark;
+    text-shadow:    0 1px 2px rgba(0,0,0,0.6);
+}

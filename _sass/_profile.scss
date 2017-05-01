@@ -61,8 +61,8 @@
 
 .alumni-name,
 .alumni-desc {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
   float: left;
   padding-left: #{$spacing-unit};
 }

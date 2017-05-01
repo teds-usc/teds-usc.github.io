@@ -1,0 +1,26 @@
+<div id="teds-expo" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    {% for expo in site.data.misc.expos %}
+      <li data-target="#teds-expo" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.index == 1 %} active {% endif %}"></li>
+    {% endfor %}
+  </ol>
+  <div class="carousel-inner slide" role="listbox">
+    {% for expo in site.data.misc.expos %}
+    <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}">
+      <img class="d-block img-fluid slide img-effect" src="{{ expo.image | prepend: site.baseurl}}" alt="{{expo.image}}">
+      <div class="carousel-caption d-none d-md-block text-effect">
+        <h3>{{expo.headline}}</h3>
+        <p>{{expo.caption}}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <a class="carousel-control-prev" href="#teds-expo" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#teds-expo" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
