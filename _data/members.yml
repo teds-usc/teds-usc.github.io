@@ -40,10 +40,3 @@
   tags:
     - name: 'Deep Learning'
     - name: 'Vision and Language'
-- name: 'Chao Yang'
-  img:  '/img/members/chao.jpg'
-  url:  '/'
-  title:  'Ph.D Student'
-  tags:
-    - name: 'Computer Vision'
-    - name: 'Medical Imaging'
