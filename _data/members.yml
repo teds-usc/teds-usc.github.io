@@ -68,3 +68,10 @@
   tags:
     - name: 'Reinforcement Learning'
     - name: 'Hierarchical Model'
+- name: 'Bowen Zhang'
+  img: '/img/members/bowen.jpg'
+  url:  ''
+  title: 'Ph.D Student'
+  tags:
+    - name: 'Action Recognition'
+    - name: 'Video Analysis'
