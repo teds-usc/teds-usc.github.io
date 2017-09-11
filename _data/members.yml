@@ -75,3 +75,10 @@
   tags:
     - name: 'Action Recognition'
     - name: 'Video Analysis'
+- name: 'Jiyun Xiao'
+  img: '/img/members/jiyun.jpg'
+  url:  ''
+  title: 'Ph.D Student'
+  tags:
+    - name: 'Theoritical Deep Learning'
+    - name: ''
