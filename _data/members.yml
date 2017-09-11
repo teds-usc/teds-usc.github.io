@@ -54,10 +54,17 @@
   tags:
     - name: 'Intrisic Motivation'
     - name: 'Reinforcement Learning'
-- name: ' Séb Arnold'
+- name: 'Séb Arnold'
   img: '/img/members/seb.png'
   url:  ''
   title: 'Ph.D Student'
   tags:
     - name: 'Reinforcement Learning'
     - name: 'Transfer Learning'
+- name: 'Liyu Chen'
+  img: '/img/members/liyu.jpg'
+  url:  ''
+  title: 'Ph.D Student'
+  tags:
+    - name: 'Reinforcement Learning'
+    - name: 'Hierarchical Model'
