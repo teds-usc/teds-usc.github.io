@@ -81,7 +81,7 @@
   title: 'Ph.D Student'
   tags:
     - name: 'Theoritical Deep Learning'
-    - name: ' '
+    - name: '&nbsp'
 - name: 'Chin-Cheng Tsu'
   img: '/img/members/chincheng.jpg'
   url:  ''
