@@ -81,4 +81,25 @@
   title: 'Ph.D Student'
   tags:
     - name: 'Theoritical Deep Learning'
-    - name: ''
+    - name: ' '
+- name: 'Chin-Cheng Tsu'
+  img: '/img/members/chincheng.jpg'
+  url:  ''
+  title: 'Ph.D Student'
+  tags:
+    - name: 'Natual Language Processing'
+    - name: 'Generative Model'
+# - name: 'Yura Zemlyanskiy'
+#   img: '/img/members/default.jpg'
+#   url:  ''
+#   title: 'Ph.D Student'
+#   tags:
+#     - name: 'Dialogue'
+#     - name: 'Machine Translation'
+# - name: 'Yiming Yan'
+#   img: '/img/members/yiming.jpg'
+#   url:  ''
+#   title: 'Ph.D Student'
+#   tags:
+#     - name: 'Machine Comprehension'
+#     - name: ' '
