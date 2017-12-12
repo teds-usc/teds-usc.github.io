@@ -42,7 +42,7 @@
     - name: 'Vision and Language'
 - name: 'Aaron Chan'
   img: '/img/members/aaron.png'
-  url:  ''
+  url:  'https://aarzchan.github.io/'
   title: 'Ph.D Student'
   tags:
     - name: 'Pose Estimation'
@@ -80,7 +80,7 @@
   url:  ''
   title: 'Ph.D Student'
   tags:
-    - name: 'Theoritical Deep Learning'
+    - name: 'Theoretical Deep Learning'
     - name: '&nbsp'
 - name: 'Chin-Cheng Tsu'
   img: '/img/members/chincheng.jpg'
