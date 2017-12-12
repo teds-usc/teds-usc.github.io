@@ -12,7 +12,7 @@
   tags:
     - name: 'Metric Learning'
     - name: 'Natural Language Processing'
-- name: 'Zhiyun (Luzy) Lu'
+- name: 'Zhiyun Lu'
   img:  '/img/members/zhiyun.jpg'
   url:  'https://sites.google.com/site/zhiyunluu/home'
   title:  'Ph.D Student'
@@ -52,8 +52,8 @@
   url:  'https://shariqiqbal2810.github.io/'
   title: 'Ph.D Student'
   tags:
-    - name: 'Intrisic Motivation'
     - name: 'Reinforcement Learning'
+    - name: 'Intrinsic Motivation'
 - name: 'Séb Arnold'
   img: '/img/members/seb.png'
   url:  ''
@@ -61,14 +61,14 @@
   tags:
     - name: 'Reinforcement Learning'
     - name: 'Transfer Learning'
-- name: 'Liyu Chen'
+- name: 'Liyu (Lennox) Chen'
   img: '/img/members/liyu.jpg'
   url:  ''
   title: 'Ph.D Student'
   tags:
-    - name: 'Reinforcement Learning'
-    - name: 'Hierarchical Model'
-- name: 'Bowen Zhang'
+    - name: 'Hierarchical Reinforcement Learning'
+    - name: 'Imitation Learning'
+- name: 'Bowen (Bruce) Zhang'
   img: '/img/members/bowen.jpg'
   url:  'https://zbwglory.github.io/'
   title: 'Ph.D Student'
