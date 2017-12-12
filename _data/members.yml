@@ -66,7 +66,7 @@
   url:  ''
   title: 'Ph.D Student'
   tags:
-    - name: 'Hierarchical Reinforcement Learning'
+    - name: 'Reinforcement Learning'
     - name: 'Imitation Learning'
 - name: 'Bowen (Bruce) Zhang'
   img: '/img/members/bowen.jpg'
