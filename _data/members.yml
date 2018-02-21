@@ -5,6 +5,13 @@
   tags:
     - name: 'Online Learning'
     - name: 'Reinforcement Learning'
+- name:   'Melissa Ailem'
+  img:    '/img/members/melissa.jpg'
+  url:    'https://melailem.github.io/'
+  title:  'Postdoc'
+  tags:
+    - name: 'Online Learning'
+    - name: 'Reinforcement Learning'
 - name:   'Soravit (Beer) Changpinyo'
   img:    '/img/members/beer.jpg'
   url:    'http://www-scf.usc.edu/~schangpi/'
