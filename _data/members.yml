@@ -12,6 +12,13 @@
   tags:
     - name: 'Metric Learning'
     - name: 'Natural Language Processing'
+- name: 'Wei-Lun (Harry) Chao'
+  img:  '/img/members/harry.jpg'
+  url:  'http://www-scf.usc.edu/~weilunc/'
+  title:  'Ph.D Candidate'
+  tags:
+    - name: 'Transfer Learning'
+    - name: 'Vision and Language'
 - name: 'Zhiyun Lu'
   img:  '/img/members/zhiyun.jpg'
   url:  'https://sites.google.com/site/zhiyunluu/home'
@@ -19,13 +26,6 @@
   tags:
     - name: 'Large Scale Kernel Method'
     - name: 'Bayesian Optimization'
-- name: 'Wei-Lun (Harry) Chao'
-  img:  '/img/members/harry.jpg'
-  url:  'http://www-scf.usc.edu/~weilunc/'
-  title:  'Ph.D Student'
-  tags:
-    - name: 'Transfer Learning'
-    - name: 'Vision and Language'
 - name: 'Ke Zhang'
   img:  '/img/members/zhan355.jpg'
   url:  'http://www-scf.usc.edu/~zhan355/'
@@ -39,7 +39,7 @@
   title:  'Ph.D Student'
   tags:
     - name: 'Transfer Learning'
-    - name: 'Vision and Language'
+    - name: 'Vision, Language and Robotics'
 - name: 'Aaron Chan'
   img: '/img/members/aaron.png'
   url:  'https://aarzchan.github.io/'
