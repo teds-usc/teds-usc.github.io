@@ -13,7 +13,7 @@
 
 .member-list {
   width: -webkit-calc(95% - (#{$spacing-unit} / 2));
-  width:         calc(95% - (#{$spacing-unit} / 2));  
+  width:         calc(95% - (#{$spacing-unit} / 2));
   display:       inline-block;
 }
 
@@ -68,8 +68,8 @@
 }
 
 .alumni-position {
-  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-  width:         calc(40% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
   float: left;
   padding-left: #{$spacing-unit};
 }
@@ -77,6 +77,6 @@
 
 .alumni-list {
   width: -webkit-calc(95% - (#{$spacing-unit} / 2));
-  width:         calc(95% - (#{$spacing-unit} / 2));  
+  width:         calc(95% - (#{$spacing-unit} / 2));
   display:       inline-block;
 }
