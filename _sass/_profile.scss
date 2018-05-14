@@ -59,17 +59,22 @@
   display:       inline-block;
 }
 
-.alumni-name,
+.alumni-name {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+  float: left;
+  padding-left: #{$spacing-unit};
+}
 .alumni-desc {
-  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-  width:         calc(25% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  width:         calc(20% - (#{$spacing-unit} / 2));
   float: left;
   padding-left: #{$spacing-unit};
 }
 
 .alumni-position {
-  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-  width:         calc(50% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
   float: left;
   padding-left: #{$spacing-unit};
 }
