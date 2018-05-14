@@ -1,3 +1,11 @@
+- name:   'Soravit (Beer) Changpinyo'
+  img:    '/img/members/beer.jpg'
+  url:    'http://www-scf.usc.edu/~schangpi/'
+  position:  'Research Scientist @ Google'
+  description: 'PhD, 2012 - 2018'
+  tags:
+    - name: 'Metric Learning'
+    - name: 'Natural Language Processing'
 - name:   'Boqing Gong'
   url:    'http://boqinggong.info'
   position:  'Principal Research Scientist @ Tencent AI Lab'

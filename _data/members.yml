@@ -12,13 +12,6 @@
   tags:
     - name: 'Probablistic Model'
     - name: 'Natural Language Processing'
-- name:   'Soravit (Beer) Changpinyo'
-  img:    '/img/members/beer.jpg'
-  url:    'http://www-scf.usc.edu/~schangpi/'
-  title:  'Ph.D Candidate'
-  tags:
-    - name: 'Metric Learning'
-    - name: 'Natural Language Processing'
 - name: 'Wei-Lun (Harry) Chao'
   img:  '/img/members/harry.jpg'
   url:  'http://www-scf.usc.edu/~weilunc/'
@@ -36,7 +29,7 @@
 - name: 'Ke Zhang'
   img:  '/img/members/zhan355.jpg'
   url:  'http://www-scf.usc.edu/~zhan355/'
-  title:  'Ph.D Student'
+  title:  'Ph.D Candidate'
   tags:
     - name: 'Sequential Models'
     - name: 'Video Analysis'
