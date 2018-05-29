@@ -1,7 +1,7 @@
 - name:   'Soravit (Beer) Changpinyo'
   img:    '/img/members/beer.jpg'
   url:    'http://www-scf.usc.edu/~schangpi/'
-  position:  'Software Engineer @ Google Research'
+  position:  'Software Engineer @ Google AI'
   description: 'PhD, 2012 - 2018'
   tags:
     - name: 'Transfer and Multi-Task Learning'
