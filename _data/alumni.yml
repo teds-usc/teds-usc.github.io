@@ -1,8 +1,8 @@
 - name: 'Wei-Lun (Harry) Chao'
   img:  '/img/members/harry.jpg'
   url:  'http://www-scf.usc.edu/~weilunc/'
-  position: 'Postdoc at Cornell (Next <a href="https://www.osu.edu/">OSU</a> Assistant Professor)'
-  title:  'PhD, 2013 - 2018'
+  position: 'Postdoc @ Cornell (Next AP @ <a href="https://www.osu.edu/">OSU</a>)'
+  description:  'PhD, 2013 - 2018'
   tags:
     - name: 'Transfer Learning'
     - name: 'Vision and Language'
@@ -14,6 +14,13 @@
   tags:
     - name: 'Transfer and Multi-Task Learning'
     - name: 'Computer Vision and Natural Language Processing'
+- name:   'Shiyi Lan'
+  url:    'https://voidrank.github.io'
+  position:  'PhD Student @ <a href="https://umd.edu">UMD</a> (UMIACS)'
+  description: 'Visiting Student, Summer 2017'
+  tags:
+    - name: 'Object Detection'
+    - name: 'Video Analysis'
 - name:   'Boqing Gong'
   url:    'http://boqinggong.info'
   position:  'Principal Research Scientist @ Tencent AI Lab'

@@ -38,7 +38,9 @@ layout: default
   <div class="alumni-list">
     {% for member in site.data.alumni %}
     <div class="alumni-namecard">
-      <a href="{{ member.url | escape }}"> <div class="alumni-name"> {{member.name}} </div> </a>
+      <a href="{{ member.url | escape }}">
+        <div class="alumni-name"> {{member.name}} </div>
+      </a>
       <div class="alumni-desc"> {{member.description}} </div>
       <div class="alumni-position"> {{member.position}} </div>
     </div>
