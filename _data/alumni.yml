@@ -29,8 +29,8 @@
     - name: 'Information Theory'
 - name:   'Zi Wang'
   url:    'http://zi-wang.com/'
-  position:  'PhD Student @ MIT'
+  position:  'PhD Candidate @ MIT'
   description: 'Visitor, 2013 - 2014'
   tags:
     - name: 'Bayesian Optimization'
-    - name: ''
+    - name: 'Robot Learning and Planning'
