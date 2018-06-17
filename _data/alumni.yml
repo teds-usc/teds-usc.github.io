@@ -30,7 +30,7 @@
     - name: 'Kernal Methods'
 - name:   'Aurélien Bellet'
   url:    'http://researchers.lille.inria.fr/abellet/'
-  position:  'Tenured Researcher @ Inria Lille'
+  position:  'Tenured Researcher @ INRIA Lille'
   description: 'Postdoc, 2013 - 2014'
   tags:
     - name: 'Metric Learning'
