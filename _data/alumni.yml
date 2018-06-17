@@ -1,3 +1,11 @@
+- name: 'Wei-Lun (Harry) Chao'
+  img:  '/img/members/harry.jpg'
+  url:  'http://www-scf.usc.edu/~weilunc/'
+  position: 'Postdoc at Cornell (Next <a href="https://www.osu.edu/">OSU</a> Assistant Professor)'
+  title:  'PhD, 2013 - 2018'
+  tags:
+    - name: 'Transfer Learning'
+    - name: 'Vision and Language'
 - name:   'Soravit (Beer) Changpinyo'
   img:    '/img/members/beer.jpg'
   url:    'http://www-scf.usc.edu/~schangpi/'

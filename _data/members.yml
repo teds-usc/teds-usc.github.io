@@ -12,13 +12,6 @@
   tags:
     - name: 'Probablistic Models'
     - name: 'Natural Language Processing'
-- name: 'Wei-Lun (Harry) Chao'
-  img:  '/img/members/harry.jpg'
-  url:  'http://www-scf.usc.edu/~weilunc/'
-  title:  'PhD Candidate'
-  tags:
-    - name: 'Transfer Learning'
-    - name: 'Vision and Language'
 - name: 'Zhiyun Lu'
   img:  '/img/members/zhiyun.jpg'
   url:  'https://sites.google.com/site/zhiyunluu/home'
