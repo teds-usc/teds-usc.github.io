@@ -96,3 +96,10 @@
   tags:
     - name: 'Natural Language Processing'
     - name: 'Machine Comprehension'
+- name: 'Michiel de Jong'
+  img: '/img/members/michiel.jpg'
+  url:  ''
+  title: 'PhD Student'
+  tags:
+    - name: 'Natural Language Processing'
+    - name: 'Transfer Learning'
