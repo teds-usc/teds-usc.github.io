@@ -25,7 +25,7 @@
   title:  'PhD Student'
   tags:
     - name: 'Transfer Learning'
-    - name: 'Vision, Language and Robotics'
+    - name: 'Multi-task Learning'
 - name: 'Aaron Chan'
   img: '/img/members/aaron.png'
   url:  'https://aarzchan.github.io/'
