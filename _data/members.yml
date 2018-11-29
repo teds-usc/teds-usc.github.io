@@ -1,10 +1,3 @@
-- name:   'Chao-Kai Chiang'
-  img:    '/img/members/chaokai.jpg'
-  url:    'https://sites.google.com/site/chiangchaokai/'
-  title:  'Postdoc'
-  tags:
-    - name: 'Online Learning'
-    - name: 'Reinforcement Learning'
 - name:   'Melissa Ailem'
   img:    '/img/members/melissa.jpg'
   url:    'https://melailem.github.io/'

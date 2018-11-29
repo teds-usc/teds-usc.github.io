@@ -1,3 +1,11 @@
+- name:   'Chao-Kai Chiang'
+  img:    '/img/members/chaokai.jpg'
+  url:    'https://sites.google.com/site/chiangchaokai/'
+  position: ''
+  description:  'Postdoc, 2016 - 2018'
+  tags:
+    - name: 'Online Learning'
+    - name: 'Reinforcement Learning'
 - name: 'Wei-Lun (Harry) Chao'
   img:  '/img/members/harry.jpg'
   url:  'http://www-scf.usc.edu/~weilunc/'
