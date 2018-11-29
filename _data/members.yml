@@ -52,8 +52,8 @@
   url:  ''
   title: 'PhD Student'
   tags:
-    - name: 'Reinforcement Learning'
-    - name: 'Imitation Learning'
+    - name: 'Transfer Learning'
+    - name: 'State Abstraction'
 - name: 'Bowen (Bruce) Zhang'
   img: '/img/members/bowen.jpg'
   url:  'https://zbwglory.github.io/'
