@@ -61,13 +61,6 @@
   tags:
     - name: 'Action Recognition'
     - name: 'Video Analysis'
-- name: 'Chin-Cheng (Jeremy) Tsu'
-  img: '/img/members/chincheng.jpg'
-  url:  'http://jeremycchsu.github.io/'
-  title: 'PhD Student'
-  tags:
-    - name: 'Natural Language Processing'
-    - name: 'Generative Models'
 - name: 'Yura Zemlyanskiy'
   img: '/img/members/yura.jpg'
   url:  ''
