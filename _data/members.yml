@@ -82,3 +82,10 @@
   tags:
     - name: 'Natural Language Processing'
     - name: 'Transfer Learning'
+- name: 'Jiacheng Chen'
+  img:  '/img/members/cjc.png'
+  url:  'http://jcchen.me'
+  title: 'PhD Student'
+  tags:
+    - name: 'Computer Vision'
+    - name: 'Generative Model'
