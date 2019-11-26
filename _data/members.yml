@@ -68,12 +68,6 @@
   tags:
     - name: 'Sequence Modeling'
     - name: 'Dialogue'
-  img: '/img/members/yiming.jpg'
-  url:  ''
-  title: 'PhD Student'
-  tags:
-    - name: 'Probablistic Models'
-    - name: 'Machine Comprehension'
 - name: 'Michiel de Jong'
   img: '/img/members/michiel.jpg'
   url:  ''
